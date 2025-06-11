@@ -1,1 +1,55 @@
-bmFtZTog4pyoRmVhdHVyZSBSZXF1ZXN0CmRlc2NyaXB0aW9uOiBSZXF1ZXN0IGEgbmV3IGZlYXR1cmUgb3IgZW5oYW5jZW1lbnQKbGFiZWxzOiBbImVuaGFuY2VtZW50Il0KdGl0bGU6ICJbRkVBVF06ICIKYm9keToKICAtIHR5cGU6IG1hcmtkb3duCiAgICBhdHRyaWJ1dGVzOgogICAgICB2YWx1ZTogfAogICAgICAgIFBsZWFzZSBtYWtlIHN1cmUgdGhpcyBmZWF0dXJlIHJlcXVlc3QgaGFzbid0IGJlZW4gYWxyZWFkeSBzdWJtaXR0ZWQgYnkgc29tZW9uZSBieSBsb29raW5nIHRocm91Z2ggb3RoZXIgb3Blbi9jbG9zZWQgaXNzdWVzCiAgCiAgLSB0eXBlOiB0ZXh0YXJlYQogICAgaWQ6IGlzc3VlLWRlc2NyaXB0aW9uCiAgICBhdHRyaWJ1dGVzOgogICAgICBsYWJlbDogSXNzdWUgRGVzY3JpcHRpb24KICAgICAgZGVzY3JpcHRpb246IERldGFpbGVkIGRlc2NyaXB0aW9uIG9mIHRoZSBmZWF0dXJlIG9yIGVuaGFuY2VtZW50CiAgICAgIHBsYWNlaG9sZGVyOiAiIyAgSXNzdWUgRGVzY3JpcHRpb24KXG5cbkRldGFpbGVkIGRlc2NyaXB0aW9uIG9mIHRoZSBmZWF0dXJlIG9yIGVuaGFuY2VtZW50LiBQcm92aWRlIGNvbnRleHQsIGdvYWxzLCBhbmQgYW55IGJyaWVmIHRyYWNlcyB0aGF0IHJlbGF0ZSB0byB0aGUgaXNzdWUuIgogICAgdmFsaWRhdGlvbnM6CiAgICAgIHJlcXVpcmVkOiB0cnVlCiAgCiAgLSB0eXBlOiB0ZXh0YXJlYQogICAgaWQ6IGltcGxlbWVudGF0aW9uLXBhdHRlcm4KICAgIGF0dHJpYnV0ZXM6CiAgICAgIGxhYmVsOiBJbXBsZW1lbnRhdGlvbiBQYXR0ZXJuCiAgICAgIGRlc2NyaXB0aW9uOiBQcm9wb3NlZCBpbXBsZW1lbnRhdGlvbiBhcHByb2FjaCBhbmQgc3RydWN0dXJlCiAgICAgIHBsYWNlaG9sZGVyOiAiIyAgSW1wbGVtZW50YXRpb24gUGF0dGVyblxuaFxuRGVzY3JpYmUgdGhlIHByb3Bvc2VkIGFwcHJvYWNoIHRvIGltcGxlbWVudCB0aGlzIGZlYXR1cmUuIFRoaXMgc2hvdWxkIGluY2x1ZGUgYnJlYWtkb3duIG9mIHRoZSB0YXNrLCB1c2FnZSBvZiBleGlzdGluZyBjb21wb25lbnRzLCBhbmQgYW55IGFyY2hpdGVjdHVyYWwgY29uc2lkZXJhdGlvbnMuIgogIC0gdHlwZTogdGV4dGFhcmVhCiAgICBpZDogYWNjZXB0YW5jZS1jcml0ZXJpYQogICAgYXR0cmlidXRlczoKICAgICAgbGFiZWw6IEFjY2VwdGFuY2UgQ3JpdGVyaWUKICAgICAgZGVzY3JpcHRpb246IERlZmluZSBrZXkgY3JpdGVyaWEgZm9yIGZlYXR1cmUgY29tcGxldGlvbgoJCXBsYWNlaG9sZGVyOiAiIyAgQWNjZXB0YW5jZSBDcml0ZXJpYVxuaFxuLSAoICkgRmlyc3QgYWNjZXB0YW5jZSBjcml0ZXJpYS5cbi0gKCApIFNlY29uZCBhY2NlcHRhbmNlIGNyaXRlcmllYS4iCiAgICAgIHJlcXVpcmVkOiB0cnVlCiAgCiAgLSB0eXBlOiB0ZXh0YXJlYQogICAgaWQ6IHRhc2tzCiAgICBhdHRyaWJ1dGVzOgogICAgICBsYWJlbDogVGFza3MKICAgICAgZGVzY3JpcHRpb246IExpc3Qgc3BlY2lmaWMgdGFza3MgZm9yIGltcGxlbWVudGF0aW9uCiAgICAgIHBsYWNlaG9sZGVyOiAiIyAgVGFza3Ncbk5cbi0gKCApIFRhc2sgMVxuLSAoICkgVGFzayAyIgogICAgICByZXF1aXJlZDogdHJ1ZQogIC0gdHlwZTogdGV4dGFyZWEKICAgIGlkOiByZWZlcmVuY2VzCiAgICBhdHRyaWJ1dGVzOgogICAgICBsYWJlbDogUmVmZXJlbmNlcwogICAgICBkZXNjcmlwdGlvbjogTGluayB0byByZWxldmFudCBkb2N1bWVudGF0aW9uLCBvdGhlciBpc3N1ZXMsIGV0Yy4KICAgICAgcGxhY2Vob2xkaWVyOiAiIyAgUmVmZXJlbmNlc1xuaFxuLSBbTGlua1RleHRdKFVSTCkudGV4dCgpXG4tIFtMaW5rVGV4dF0oVVJMKS50ZXh0KCkiCiAgLSB0eXBlOiB0ZXh0YXJlYQogICAgaWQ6IG5vdGVzCiAgICBhdHRyaWJ1dGVzOgogICAgICBsYWJlbDogTm90ZXMKICAgICAgZGVzY3JpcHRpb246IEFueSBhZGRpdGlvbmFsIG5vdGVzIG9yIGNvbW1lbnRzIGFib3V0IHRoaXMgZmVhdHVyZSByZXF1ZXN0LgogICAgICBwbGFjZWhvbGRlcjogIiMjIE5vdGVzXG5cblByb3ZpZGUgYW55IGFkZGl0aW9uYWwgbm90ZXMsIGNvbnNpZGVyYXRpb25zLCBvciByZW1pbmRlcnMgcmVsYXRlZCB0byB0aGlzIGZlYXR1cmUgcmVxdWVzdC4i
+name: ✨Feature Request
+description: Request a new feature or enhancement
+labels: ["enhancement"]
+title: "[FEAT]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this feature request hasn't been already submitted by someone by looking through other open/closed issues
+
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: Issue Description
+      description: Detailed description of the feature or enhancement
+      placeholder: "## Issue Description\n\nDetailed description of the feature or enhancement. Provide context, goals, and any brief traces that relate to the issue."
+    validations:
+      required: true
+
+  - type: textarea
+    id: implementation-pattern
+    attributes:
+      label: Implementation Pattern
+      description: Proposed implementation approach and structure
+      placeholder: "## Implementation Pattern\n\nDescribe the proposed approach to implement this feature. This should include breakdown of the task, usage of existing components, and any architectural considerations."
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria
+      description: Define key criteria for feature completion
+      placeholder: "## Acceptance Criteria\n\n- [ ] First acceptance criteria.\n- [ ] Second acceptance criteria."
+    validations:
+      required: true
+
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tasks
+      description: List specific tasks for implementation
+      placeholder: "## Tasks\n\n- [ ] Task 1\n- [ ] Task 2"
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Link to relevant documentation, other issues, etc.
+      placeholder: "## References\n\n- [LinkText](URL).text()\n- [LinkText](URL).text()"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Any additional notes or comments about this feature request.
+      placeholder: "## Notes\n\nProvide any additional notes, considerations, or reminders related to this feature request."
